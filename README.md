@@ -3,7 +3,7 @@ A tiny UI for the "youtube-dl" console app.
 
 ### What it is:
 
-- It is just a simple UI tool for the "youtube-dl" console app, to download Youtube videos and convert them to mp3 audio files.
+- It is just a simple UI tool for the "youtube-dl" console app, to download and convert Youtube videos to mp3 files.
 - It needs .NET Core 3.1 to run.
 - It is developed with Visual Studio 2019 as .NET Core WPF app in C#.
 
