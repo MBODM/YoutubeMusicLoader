@@ -23,6 +23,7 @@ A tiny UI for the "youtube-dl" console app.
 - Put them also into the "Tools" folder mentioned above.
 
 #### Step 4
+- Make sure you have .NET Core 3.1 installed on your machine.
 - Start the program, insert some Youtube link and click the "Download" button.
 - You will find your mp3 file in the "Music" subfolder.
 
