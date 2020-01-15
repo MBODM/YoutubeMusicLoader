@@ -1,7 +1,7 @@
 # YoutubeMusicLoader
 A tiny UI for the "youtube-dl" console app.
 
-### How to use
+#### How to use
 1)
 - Download release and extract contents of zip file into some folder.
 - Create a subfolder named "Tools" in that folder.
