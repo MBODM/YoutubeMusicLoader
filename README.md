@@ -9,11 +9,11 @@ A tiny UI for the "youtube-dl" console app.
 - Create a subfolder named "Music" in that folder.
 
 #### Step 2
-- Download "youtube-dl.exe" (see "youtube-dl" project on GitHub at "https://github.com/ytdl-org/youtube-dl").
+- Download "youtube-dl.exe" (see "youtube-dl" project on GitHub at https://github.com/ytdl-org/youtube-dl).
 - Put the "youtube-dl.exe" binary into the "Tools" folder above.
 
 #### Step 3
-- Download the "ffmpeg" binaries ("ffmpeg.exe" and "ffprobe.exe") from "https://www.ffmpeg.org" because "youtube-dl.exe" needs them to work properly (see project site of "youtube-dl").
+- Download the "ffmpeg" binaries ("ffmpeg.exe" and "ffprobe.exe") from https://www.ffmpeg.org because "youtube-dl.exe" needs them to work properly (see project site of "youtube-dl").
 - Put them also into the "Tools" folder above.
 
 #### Step 4
