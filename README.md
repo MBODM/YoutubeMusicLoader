@@ -1,23 +1,23 @@
 # YoutubeMusicLoader
 A tiny UI for the "youtube-dl" console app.
 
-#### How to use
+#### How to use:
 
-##### 1)
+#### Step 1)
 - Download release and extract contents of zip file into some folder.
 - Create a subfolder named "Tools" in that folder.
 - Create a subfolder named "Music" in that folder.
 
-##### 2)
+#### Step 2)
 - Download "youtube-dl.exe" (see "youtube-dl" project on GitHub at "https://github.com/ytdl-org/youtube-dl").
 - Put the "youtube-dl.exe" binary into the "Tools" folder above.
 
-##### 3)
+#### Step 3)
 - Download the "ffmpeg" binaries ("ffmpeg.exe" and "ffprobe.exe") from "https://www.ffmpeg.org" because "youtube-dl.exe" needs them to work properly (see project site of "youtube-dl").
 - Put them also into the "Tools" folder above.
 
-##### 4)
+#### Step 4)
 Start the program, insert some Youtube link, click "Download" and you will find your mp3 file in the "Music" subfolder.
 
-##### 5)
+#### Step 5)
 Have fun.
