@@ -13,7 +13,7 @@ A tiny UI for the "youtube-dl" console app.
 - Put the "youtube-dl.exe" binary into the "Tools" folder mentioned above.
 
 #### Step 3
-- Download the "ffmpeg" binaries ("ffmpeg.exe" and "ffprobe.exe") from https://www.ffmpeg.org because "youtube-dl.exe" needs them to work properly (see project site of "youtube-dl").
+- Download the "ffmpeg" binaries ("ffmpeg.exe" and "ffprobe.exe") from https://www.ffmpeg.org because the "youtube-dl" app needs them to work properly (see project site of "youtube-dl").
 - Put them also into the "Tools" folder mentioned above.
 
 #### Step 4
