@@ -1,5 +1,5 @@
 # YoutubeMusicLoader
-A tiny UI for the "youtube-dl" console app.
+A tiny UI for the "youtube-dl" console app
 
 ### What it is:
 
@@ -29,3 +29,7 @@ A tiny UI for the "youtube-dl" console app.
 
 #### Step 5
 - Have fun.
+
+### License infos:
+
+This software is using the "youtube-dl" console app (https://github.com/ytdl-org/youtube-dl), which is under the "The Unlicense" License (https://github.com/ytdl-org/youtube-dl/blob/master/LICENSE). A big THX to the authors of this nice piece of software!
