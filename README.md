@@ -32,4 +32,7 @@ A tiny UI for the "youtube-dl" console app
 
 ### License infos:
 
-This software is using the "youtube-dl" console app (https://github.com/ytdl-org/youtube-dl), which is under the "The Unlicense" License (https://github.com/ytdl-org/youtube-dl/blob/master/LICENSE). A big THX to the authors of this nice piece of software!
+- This software is made to use the "youtube-dl" console app (https://github.com/ytdl-org/youtube-dl), which is under the "The Unlicense" license.
+- Also the "youtube-dl" app needs to use the "ffmpeg" tools (https://ffmpeg.org), which are under the "GNU Lesser General Public License, Version 2.1 (or later)" license.
+
+A big THX to the authors of this nice pieces of software!
